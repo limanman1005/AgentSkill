@@ -3,7 +3,7 @@
 ## Stable Markdown Output
 
 ```md
-# API Call Flow
+# Generated API Documentation
 
 ## 1. Endpoint
 - HTTP: `POST /example` (`src/main/java/.../ExampleController.java:10-24`) — Confirmed
